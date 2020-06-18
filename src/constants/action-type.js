@@ -1,0 +1,6 @@
+export const DECREMENT_SCORE = 'DECREMENT_SCORE';
+export const RESET_SCORE = 'RESET_SCORE';
+export const INCREMENT_SCORE = 'INCREMENT_SCORE';
+export const RESET_GAME = 'RESET_GAME';
+export const SET_RESULT = 'SET_RESULUT';
+export const RESET_RESULT = 'RESET_RESULT';
